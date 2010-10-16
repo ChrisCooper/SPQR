@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<audacityproject projname="Game Music0_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="8.2773338667" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="1412077" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00008.au' len='396077' min='-0.565240' max='0.675471' rms='0.083272'/>
+			</waveblock>
+			<waveblock start="396077" >
+				<simpleblockfile filename='b00001.au' len='524288' min='-0.713222' max='0.770047' rms='0.110490'/>
+			</waveblock>
+			<waveblock start="920365" >
+				<simpleblockfile filename='b00007.au' len='491712' min='-0.362570' max='0.317525' rms='0.059454'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='31.948413640183' val='1.000000000000'/>
+			<controlpoint t='31.948418640183' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

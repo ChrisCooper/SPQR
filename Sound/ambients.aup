@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<audacityproject projname="ambients_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="2304" h="0.0000000000" zoom="162.0637690355" rate="22050.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="ACADEMY" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="42246" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00042.auf' aliasfile='C:\SIERRA\Caesar3\wavs\ACADEMY.WAV' aliasstart='0' aliaslen='42246' aliaschannel='0' min='-0.203125' max='0.164063' rms='0.019258'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="AQUADUCT" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="66943" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00043.auf' aliasfile='C:\SIERRA\Caesar3\wavs\AQUADUCT.WAV' aliasstart='0' aliaslen='66943' aliaschannel='0' min='-0.320313' max='0.265625' rms='0.023486'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="BARRACKS" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="74751" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00045.auf' aliasfile='C:\SIERRA\Caesar3\wavs\BARRACKS.WAV' aliasstart='0' aliaslen='74751' aliaschannel='0' min='-0.664063' max='0.625000' rms='0.053416'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="BATHS" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="88057" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00046.auf' aliasfile='C:\SIERRA\Caesar3\wavs\BATHS.WAV' aliasstart='0' aliaslen='88057' aliaschannel='0' min='-0.632813' max='0.570313' rms='0.051216'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="CHAR_PIT" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="116736" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00050.auf' aliasfile='C:\SIERRA\Caesar3\wavs\CHAR_PIT.WAV' aliasstart='0' aliaslen='116736' aliaschannel='0' min='-0.562500' max='0.562500' rms='0.080861'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="CLAY" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="84351" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00051.auf' aliasfile='C:\SIERRA\Caesar3\wavs\CLAY.WAV' aliasstart='0' aliaslen='84351' aliaschannel='0' min='-0.437500' max='0.335938' rms='0.034192'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="CLAY_PIT" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="76799" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00052.auf' aliasfile='C:\SIERRA\Caesar3\wavs\CLAY_PIT.WAV' aliasstart='0' aliaslen='76799' aliaschannel='0' min='-0.984375' max='0.843750' rms='0.042944'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="CLINIC" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="25472" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00053.auf' aliasfile='C:\SIERRA\Caesar3\wavs\CLINIC.WAV' aliasstart='0' aliaslen='25472' aliaschannel='0' min='-0.367188' max='0.398438' rms='0.032423'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Empty_land1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="33919" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00059.auf' aliasfile='C:\SIERRA\Caesar3\wavs\Empty_land1.wav' aliasstart='0' aliaslen='33919' aliaschannel='0' min='-0.312500' max='0.289063' rms='0.020052'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Empty_land2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="28415" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00060.auf' aliasfile='C:\SIERRA\Caesar3\wavs\Empty_land2.wav' aliasstart='0' aliaslen='28415' aliaschannel='0' min='-0.312500' max='0.304688' rms='0.024980'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Empty_land3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="64255" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00061.auf' aliasfile='C:\SIERRA\Caesar3\wavs\Empty_land3.wav' aliasstart='0' aliaslen='64255' aliaschannel='0' min='-0.312500' max='0.304688' rms='0.037623'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Empty_land4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="44799" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00062.auf' aliasfile='C:\SIERRA\Caesar3\wavs\Empty_land4.wav' aliasstart='0' aliaslen='44799' aliaschannel='0' min='-0.296875' max='0.304688' rms='0.047191'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="FORUM" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="66915" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00068.auf' aliasfile='C:\SIERRA\Caesar3\wavs\FORUM.WAV' aliasstart='0' aliaslen='66915' aliaschannel='0' min='-0.484375' max='0.539063' rms='0.046001'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="FOUNTAIN" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="78848" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00069.auf' aliasfile='C:\SIERRA\Caesar3\wavs\FOUNTAIN.WAV' aliasstart='0' aliaslen='78848' aliaschannel='0' min='-0.523438' max='0.539063' rms='0.053127'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GARDENS1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="33919" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00070.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GARDENS1.WAV' aliasstart='0' aliaslen='33919' aliaschannel='0' min='-0.242188' max='0.234375' rms='0.015615'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GARDENS2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="28415" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00071.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GARDENS2.WAV' aliasstart='0' aliaslen='28415' aliaschannel='0' min='-0.242188' max='0.242188' rms='0.019394'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GARDENS3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="64255" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00072.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GARDENS3.WAV' aliasstart='0' aliaslen='64255' aliaschannel='0' min='-0.242188' max='0.242188' rms='0.029200'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GARDENS4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="44799" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00073.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GARDENS4.WAV' aliasstart='0' aliaslen='44799' aliaschannel='0' min='-0.234375' max='0.242188' rms='0.037013'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GRANARY" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="72704" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00075.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GRANARY.WAV' aliasstart='0' aliaslen='72704' aliaschannel='0' min='-0.695313' max='0.773438' rms='0.063019'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GRANARY1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="52994" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00076.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GRANARY1.WAV' aliasstart='0' aliaslen='52994' aliaschannel='0' min='-0.351563' max='0.367188' rms='0.056655'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="GRANARY2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="60032" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00077.auf' aliasfile='C:\SIERRA\Caesar3\wavs\GRANARY2.WAV' aliasstart='0' aliaslen='60032' aliaschannel='0' min='-0.507813' max='0.539063' rms='0.069953'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="HOSPITAL" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="108799" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00080.auf' aliasfile='C:\SIERRA\Caesar3\wavs\HOSPITAL.WAV' aliasstart='0' aliaslen='108799' aliaschannel='0' min='-0.421875' max='0.390625' rms='0.044278'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="HOUSING" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="119295" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00081.auf' aliasfile='C:\SIERRA\Caesar3\wavs\HOUSING.WAV' aliasstart='0' aliaslen='119295' aliaschannel='0' min='-0.328125' max='0.289063' rms='0.049890'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="LIBRARY" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="58496" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00082.auf' aliasfile='C:\SIERRA\Caesar3\wavs\LIBRARY.WAV' aliasstart='0' aliaslen='58496' aliaschannel='0' min='-0.710938' max='0.687500' rms='0.020178'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="MARKET" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="80108" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00083.auf' aliasfile='C:\SIERRA\Caesar3\wavs\MARKET.WAV' aliasstart='0' aliaslen='80108' aliaschannel='0' min='-0.437500' max='0.468750' rms='0.061293'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="MARKET1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="80108" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00084.auf' aliasfile='C:\SIERRA\Caesar3\wavs\MARKET1.WAV' aliasstart='0' aliaslen='80108' aliaschannel='0' min='-0.437500' max='0.468750' rms='0.061289'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="MARKET2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="118527" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00085.auf' aliasfile='C:\SIERRA\Caesar3\wavs\MARKET2.WAV' aliasstart='0' aliaslen='118527' aliaschannel='0' min='-0.367188' max='0.296875' rms='0.047577'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="MARKET3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="104447" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00086.auf' aliasfile='C:\SIERRA\Caesar3\wavs\MARKET3.WAV' aliasstart='0' aliaslen='104447' aliaschannel='0' min='-0.351563' max='0.328125' rms='0.055606'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="MARKET4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="67584" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00087.auf' aliasfile='C:\SIERRA\Caesar3\wavs\MARKET4.WAV' aliasstart='0' aliaslen='67584' aliaschannel='0' min='-0.328125' max='0.343750' rms='0.042761'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="MINE" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="70911" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00088.auf' aliasfile='C:\SIERRA\Caesar3\wavs\MINE.WAV' aliasstart='0' aliaslen='70911' aliaschannel='0' min='-0.343750' max='0.367188' rms='0.017258'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="ORACLE" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="54399" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00089.auf' aliasfile='C:\SIERRA\Caesar3\wavs\ORACLE.WAV' aliasstart='0' aliaslen='54399' aliaschannel='0' min='-0.281250' max='0.265625' rms='0.049623'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="PALACE" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="117759" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00090.auf' aliasfile='C:\SIERRA\Caesar3\wavs\PALACE.WAV' aliasstart='0' aliaslen='117759' aliaschannel='0' min='-0.273438' max='0.375000' rms='0.052504'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="PARK" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="88959" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00091.auf' aliasfile='C:\SIERRA\Caesar3\wavs\PARK.WAV' aliasstart='0' aliaslen='88959' aliaschannel='0' min='-0.335938' max='0.312500' rms='0.030061'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="QUARRY" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="82943" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00092.auf' aliasfile='C:\SIERRA\Caesar3\wavs\QUARRY.WAV' aliasstart='0' aliaslen='82943' aliaschannel='0' min='-0.585938' max='0.507813' rms='0.021972'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="RESEVOIR" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="106751" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00093.auf' aliasfile='C:\SIERRA\Caesar3\wavs\RESEVOIR.WAV' aliasstart='0' aliaslen='106751' aliaschannel='0' min='-0.687500' max='0.789063' rms='0.020095'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="RIVER" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="66943" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00094.auf' aliasfile='C:\SIERRA\Caesar3\wavs\RIVER.WAV' aliasstart='0' aliaslen='66943' aliaschannel='0' min='-0.500000' max='0.429688' rms='0.036200'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="SCHOOL" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="110847" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00095.auf' aliasfile='C:\SIERRA\Caesar3\wavs\SCHOOL.WAV' aliasstart='0' aliaslen='110847' aliaschannel='0' min='-0.648438' max='0.601563' rms='0.102938'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="SHIPYARD" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="92672" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00096.auf' aliasfile='C:\SIERRA\Caesar3\wavs\SHIPYARD.WAV' aliasstart='0' aliaslen='92672' aliaschannel='0' min='-0.554688' max='0.421875' rms='0.035111'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="STATUE" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="84096" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00097.auf' aliasfile='C:\SIERRA\Caesar3\wavs\STATUE.WAV' aliasstart='0' aliaslen='84096' aliaschannel='0' min='-0.468750' max='0.460938' rms='0.042176'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="THEATRE" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="94967" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00098.auf' aliasfile='C:\SIERRA\Caesar3\wavs\THEATRE.WAV' aliasstart='0' aliaslen='94967' aliaschannel='0' min='-0.710938' max='0.617188' rms='0.077494'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="TIMBER" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="125311" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00099.auf' aliasfile='C:\SIERRA\Caesar3\wavs\TIMBER.WAV' aliasstart='0' aliaslen='125311' aliaschannel='0' min='-0.789063' max='0.718750' rms='0.053163'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="VEG_FARM" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="65535" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00100.auf' aliasfile='C:\SIERRA\Caesar3\wavs\VEG_FARM.WAV' aliasstart='0' aliaslen='65535' aliaschannel='0' min='-0.742188' max='0.835938' rms='0.046545'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="WELL" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="97536" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00101.auf' aliasfile='C:\SIERRA\Caesar3\wavs\WELL.WAV' aliasstart='0' aliaslen='97536' aliaschannel='0' min='-0.289063' max='0.257813' rms='0.037992'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="WHARF" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="113151" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00102.auf' aliasfile='C:\SIERRA\Caesar3\wavs\WHARF.WAV' aliasstart='0' aliaslen='113151' aliaschannel='0' min='-0.328125' max='0.250000' rms='0.045197'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="WHARF1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="61439" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00103.auf' aliasfile='C:\SIERRA\Caesar3\wavs\WHARF1.WAV' aliasstart='0' aliaslen='61439' aliaschannel='0' min='-0.414063' max='0.328125' rms='0.029644'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="WHARF2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="71295" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00104.auf' aliasfile='C:\SIERRA\Caesar3\wavs\WHARF2.WAV' aliasstart='0' aliaslen='71295' aliaschannel='0' min='-0.500000' max='0.367188' rms='0.025877'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="WHEAT" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="68480" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00105.auf' aliasfile='C:\SIERRA\Caesar3\wavs\WHEAT.WAV' aliasstart='0' aliaslen='68480' aliaschannel='0' min='-0.390625' max='0.281250' rms='0.021261'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_good1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="59392" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00106.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_good1.wav' aliasstart='0' aliaslen='59392' aliaschannel='0' min='-0.601563' max='0.523438' rms='0.056705'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_good2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="71808" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00107.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_good2.wav' aliasstart='0' aliaslen='71808' aliaschannel='0' min='-0.656250' max='0.710938' rms='0.043402'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_good3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="151296" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00108.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_good3.wav' aliasstart='0' aliaslen='151296' aliaschannel='0' min='-0.437500' max='0.414063' rms='0.052946'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_good4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="108032" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00109.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_good4.wav' aliasstart='0' aliaslen='108032' aliaschannel='0' min='-0.492188' max='0.437500' rms='0.083502'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_mid1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="83710" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00110.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_mid1.wav' aliasstart='0' aliaslen='83710' aliaschannel='0' min='-0.320313' max='0.312500' rms='0.052360'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_mid2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="78590" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00111.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_mid2.wav' aliasstart='0' aliaslen='78590' aliaschannel='0' min='-0.281250' max='0.242188' rms='0.034373'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_mid3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="86784" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00112.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_mid3.wav' aliasstart='0' aliaslen='86784' aliaschannel='0' min='-0.406250' max='0.437500' rms='0.040385'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_mid4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="107776" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00113.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_mid4.wav' aliasstart='0' aliaslen='107776' aliaschannel='0' min='-0.351563' max='0.335938' rms='0.058239'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_poor1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="77824" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00114.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_poor1.wav' aliasstart='0' aliaslen='77824' aliaschannel='0' min='-0.343750' max='0.273438' rms='0.050196'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_poor2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="77312" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00115.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_poor2.wav' aliasstart='0' aliaslen='77312' aliaschannel='0' min='-0.328125' max='0.328125' rms='0.048666'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_poor3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="86912" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00116.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_poor3.wav' aliasstart='0' aliaslen='86912' aliaschannel='0' min='-0.406250' max='0.460938' rms='0.044232'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_poor4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="68736" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00117.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_poor4.wav' aliasstart='0' aliaslen='68736' aliaschannel='0' min='-0.492188' max='0.476563' rms='0.039782'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_posh1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="68096" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00118.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_posh1.wav' aliasstart='0' aliaslen='68096' aliaschannel='0' min='-0.351563' max='0.320313' rms='0.040650'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_posh2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="77952" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00119.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_posh2.wav' aliasstart='0' aliaslen='77952' aliaschannel='0' min='-0.437500' max='0.468750' rms='0.052916'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_posh3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="85248" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00120.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_posh3.wav' aliasstart='0' aliaslen='85248' aliaschannel='0' min='-0.437500' max='0.445313' rms='0.049362'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_posh4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="91648" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00121.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_posh4.wav' aliasstart='0' aliaslen='91648' aliaschannel='0' min='-0.429688' max='0.375000' rms='0.043208'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_slum1" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="68992" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00122.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_slum1.wav' aliasstart='0' aliaslen='68992' aliaschannel='0' min='-0.554688' max='0.539063' rms='0.043301'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_slum2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="84864" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00123.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_slum2.wav' aliasstart='0' aliaslen='84864' aliaschannel='0' min='-0.406250' max='0.460938' rms='0.045326'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_slum3" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="132096" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00124.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_slum3.wav' aliasstart='0' aliaslen='132096' aliaschannel='0' min='-0.500000' max='0.335938' rms='0.041112'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="house_slum4" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="94720" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00125.auf' aliasfile='C:\SIERRA\Caesar3\wavs\house_slum4.wav' aliasstart='0' aliaslen='94720' aliaschannel='0' min='-0.359375' max='0.335938' rms='0.050316'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="lumber_mill" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="53183" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00126.auf' aliasfile='C:\SIERRA\Caesar3\wavs\lumber_mill.wav' aliasstart='0' aliaslen='53183' aliaschannel='0' min='-0.796875' max='0.781250' rms='0.036741'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="oil_workshop" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="39103" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00127.auf' aliasfile='C:\SIERRA\Caesar3\wavs\oil_workshop.wav' aliasstart='0' aliaslen='39103' aliaschannel='0' min='-0.679688' max='0.656250' rms='0.036392'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="olives_farm" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="63871" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00128.auf' aliasfile='C:\SIERRA\Caesar3\wavs\olives_farm.wav' aliasstart='0' aliaslen='63871' aliaschannel='0' min='-0.742188' max='0.648438' rms='0.042165'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="vines_farm" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="65535" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00129.auf' aliasfile='C:\SIERRA\Caesar3\wavs\vines_farm.wav' aliasstart='0' aliaslen='65535' aliaschannel='0' min='-0.562500' max='0.625000' rms='0.039151'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="wolf_howl" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="72959" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00130.auf' aliasfile='C:\SIERRA\Caesar3\wavs\wolf_howl.wav' aliasstart='0' aliaslen='72959' aliaschannel='0' min='-0.546875' max='0.679688' rms='0.057363'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

@@ -1,0 +1,594 @@
+Objects in Total: 21
+
+Name: Empty_Land
+Blurb: This_square_is_an_opportunity_for_growth._It_is_a_blank_slate,_ready_to_by_populated._Passable_by_all,_it_welcomes_immigrants_to_tread_on_its__grassy_and_soil,_and_construct_magnificent_cities_of_Roman_glory.
+Cost: 5
+Varieties: 5
+Max People: 0
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 0
+Picture: Grass0.gif
+Picture: Grass1.gif
+Picture: Grass2.gif
+Picture: Grass3.gif
+Picture: Grass4.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Debris
+Blurb: This_square_is_blocked_by_debris._Walkers_connot_pass_through_this_area,_and_to_build_here,_you_must_demolish_the_debris.
+Cost: 30
+Varieties: 3
+Max People: 0
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 30
+Picture: Debris0.gif
+Picture: Debris1.gif
+Picture: Debris2.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Road
+Blurb: Roads_are_the_Roman_Hallmark._The_jealous_patrons_of_other_nations_look_on_in_wonder_at_the_straight,_flat,_thoroughfares_and_long_to_live_near_its_civilized_curb._This_square_allows_passage_of_all_people,_and_improve_your_city's_productivity.
+Cost: 10
+Varieties: 16
+Max People: 0
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 0
+Picture: RoadCO.gif
+Picture: RoadVO.gif
+Picture: RoadHO.gif
+Picture: RoadLU.gif
+Picture: RoadHO.gif
+Picture: RoadUR.gif
+Picture: RoadHO.gif
+Picture: RoadTU.gif
+Picture: RoadVO.gif
+Picture: RoadDL.gif
+Picture: RoadTL.gif
+Picture: RoadRD.gif
+Picture: RoadTR.gif
+Picture: RoadTD.gif
+Picture: RoadCO.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Marketplace
+Blurb: The_bustling_image_of_daily_roman_life,_this_market_allows_centralization_of_commerce,_and_holds_larger_stockpiles_than_individual_dealers.
+Cost: 150
+Varieties: 1
+Max People: 0
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 50000  50000 0 0 50000 0 50000 50000 0 0 50000 0
+Supply Threshold: 10000 10000  -1 -1 10000 -1 10000 10000 -1 -1 10000 -1 
+Print Offset: 50
+Picture: Market.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 1 1 0 0 1 0 1 1 0 0 1 0
+
+Name: Farm
+Blurb: Supporting_pigs,_grain,_and_fruit,_this_farm_supplies_Romam_citizens_with_the_basic_staples,_although_the_upper_class_turn_up_their_noses_at_the_prospect_of_living_on_the_stuff._This_farm_can_supply_around_100_people.
+Cost: 50
+Varieties: 3
+Max People: 15
+Production Rates: 2033 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 8000 0 0 0 0 0 0 0 0 0 0 0
+Supply Threshold: 8000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: Farm0.gif
+Picture: Farm1.gif
+Picture: Farm2.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 1 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Fountain
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 50
+Varieties: 1
+Max People: 13
+Production Rates: 0 3000 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 10000 0 0 0 0 0 0 0 0 0 0
+Supply Threshold: -1 5000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: Fountain.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 1 0 0 0 0 0 0 0 0 0 0
+
+
+Name: Theatre
+Blurb: Actors,_vendors,_patrons,_this_theatre_is_a_bustling_scene_of_excitement,_and_all_who_visit_this_venue_are_sure_to_leave_with_a_smile,_not_to_mention_the_promise_of_a_headache_the_next_morning.
+Cost: 50
+Varieties: 1
+Max People: 30
+Production Rates: 0 0 1020 0 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 8000 0 0 0 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: Theatre0.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 1 0 0 0 0 0 0 0 0 0
+
+
+Name: Temple
+Blurb: For_those_religious_citizens,_that_is_to_say_all_of_them,_this_temple_is_an_oasis_in_a_busy_city,_a_chance_to_make_a_sacrifice,_to_sway_the_gods’_opinion_of_oneself,_and_to_receive_guidance_in_everyday_life.
+Cost: 100
+Varieties: 1
+Max People: 20
+Production Rates: 0 0 0 1280 0 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 10000 0 0 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: Temple.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 1 0 0 0 0 0 0 0 0
+
+
+Name: Potter's_Shop
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 100
+Varieties: 1
+Max People: 23
+Production Rates: 0 0 0 0 1500 0 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 10000 0 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 60000 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: PotterShop.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 1 0 0 0 0 0 0 0
+
+Name: Barber's_Shop
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 100
+Varieties: 1
+Max People: 8
+Production Rates: 0 0 0 0 0 687 0 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 15000 0 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: BarberShop.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 1 0 0 0 0 0 0
+
+
+Name: Furniture_Workshop
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 300
+Varieties: 1
+Max People: 25
+Production Rates: 0 0 0 0 0 0 880 0 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 9800 0 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 16000 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: FurnitureWorkshop.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 1 0 0 0 0 0
+
+Name: Wine_Press
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 300
+Varieties: 1
+Max People: 18
+Production Rates: 0 0 0 0 0 0 0 1167 0 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 9000 0 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 19000 -1 -1 -1 -1 
+Print Offset: 50
+Picture: WinePress.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 1 0 0 0 0
+
+Name: Bath_House
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 300
+Varieties: 1
+Max People: 20
+Production Rates: 0 0 0 0 0 0 0 0 1080 0 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 2400 0 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: BathHouse.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 1 0 0 0
+
+Name: Slave_Trader
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 500
+Varieties: 1
+Max People: 16
+Production Rates: 0 0 0 0 0 0 0 0 0 410 0 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 0 6000 0 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 5000 -1 -1 
+Print Offset: 50
+Picture: SlaveTrader.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 1 0 0
+
+
+Name: Olive_Grove
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 500
+Varieties: 1
+Max People: 14
+Production Rates: 0 0 0 0 0 0 0 0 0 0 1667 0
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 0 0 9000 0
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 10000 -1 
+Print Offset: 50
+Picture: OlivePress.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 1 0
+
+Name: Academy
+Blurb: Crysal_clear_water_runs_here,_allowing_citizens_to_freely_come_and_drink_their_fill,_or_collect_cooking_and_bathing_water._A_city_without_fountains_is_a_sorry_sight_indeed._This_fountain_can_supply_around_200_people.
+Cost: 500
+Varieties: 1
+Max People: 25
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 1253
+Consumption Rates:  0 0 0 0 0 0 0 0 0 0 0 0
+Max Supply: 0 0 0 0 0 0 0 0 0 0 0 12000
+Supply Threshold: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: Academy.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 1
+
+Name: Tents
+Blurb: These_citizens_lack_even_a_close_supply_of_food_and_water,_and_must_trudge_through_the_streets_to_find_their_supplies._To_upgrade_to_a_dwelling_of_higher_influence,_this_household_requires_good_access_to_food,_water,_and_entertainment.
+Cost: 10
+Varieties: 4
+Max People: 20
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  20 25 12 0 0 0 0 0 0 0 0 0
+Max Supply: 3500 3000 1400 0 0 0 0 0 0 0 0 0
+Supply Threshold: 1750 1500 700 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Print Offset: 50
+Picture: Tent0.gif
+Picture: Tent1.gif
+Picture: Tent2.gif
+Picture: Tent3.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Cottages
+Blurb: These_citizens_lack_even_a_close_supply_of_food_and_water,_and_must_trudge_through_the_streets_to_find_their_supplies._To_upgrade_to_a_dwelling_of_higher_influence,_this_household_requires_good_access_to_food,_water,_and_entertainment.
+Cost: 0
+Varieties: 4
+Max People: 45
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates:  26 32 23 17 12 9 0 0 0 0 0 0
+Max Supply: 3500 5250 2450 2450 2100 1400 0 0 0 0 0 0
+Supply Threshold: 1750 2630 1230 1230 1050 700 -1 -1 -1 -1 -1 -1 
+Print Offset: 50
+Picture: Cottage0.gif
+Picture: Cottage1.gif
+Picture: Cottage2.gif
+Picture: Cottage3.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: House
+Blurb: These_citizens_lack_even_a_close_supply_of_food_and_water,_and_must_trudge_through_the_streets_to_find_their_supplies._To_upgrade_to_a_dwelling_of_higher_influence,_this_household_requires_good_access_to_food,_water,_and_entertainment.
+Cost: 0
+Varieties: 2
+Max People: 75
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates: 27 33 24 18 13 10 10 25 15 0 0 0
+Max Supply: 3500 5250 2450 2450 2100 1400 2000 2000 2000 0 0 0
+Supply Threshold: 1750 2630 1230 1230 1050 700 1000 1000 1000 -1 -1 -1 
+Print Offset: 50
+Picture: House0.gif
+Picture: House1.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Apartment
+Blurb: These_citizens_lack_even_a_close_supply_of_food_and_water,_and_must_trudge_through_the_streets_to_find_their_supplies._To_upgrade_to_a_dwelling_of_higher_influence,_this_household_requires_good_access_to_food,_water,_and_entertainment.
+Cost: 0
+Varieties: 2
+Max People: 125
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates: 27 33 24 18 13 10 10 25 15 0 0 0
+Max Supply: 3500 5250 2450 2450 2100 1400 2000 2000 2000 2000 2000 2000
+Supply Threshold: 1750 2630 1230 1230 1050 700 1000 1000 1000 1000 1000 1000 
+Print Offset: 50
+Picture: Apartment0.gif
+Picture: Apartment1.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
+
+Name: Palace
+Blurb: These_citizens_lack_even_a_close_supply_of_food_and_water,_and_must_trudge_through_the_streets_to_find_their_supplies._To_upgrade_to_a_dwelling_of_higher_influence,_this_household_requires_good_access_to_food,_water,_and_entertainment.
+Cost: 0
+Varieties: 2
+Max People: 200
+Production Rates: 0 0 0 0 0 0 0 0 0 0 0 0
+Consumption Rates: 27 33 24 18 13 10 10 25 15 10 10 10
+Max Supply: 3500 5250 2450 2450 2100 1400 2000 2000 2000 2000 2000 2000
+Supply Threshold: 1750 2630 1230 1230 1050 700 1000 1000 1000 1000 1000 1000
+Print Offset: 50
+Picture: Palace0.gif
+Picture: Palace1.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Picture: a.gif
+Products: 0 0 0 0 0 0 0 0 0 0 0 0
