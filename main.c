@@ -1,6 +1,7 @@
 #include <stdlib.h>        //Memory handling prototypes
 #include <math.h>          //Math routines
 #include <time.h>          //For time(0) function
+#include <stdbool.h>
 #include "definitions.h" 	//All structure definitions, #defines, #includes, and ENUMs
 #include "globals.h"       //Includes all global variables declared as "extern"
 
@@ -100,7 +101,6 @@ int main(int argc, char *argv[])
     BITMAP *highlighter = makeBitmap("Menu_Images/Menu Selector.bmp"); // Load our picture
     BITMAP *mouse = makeBitmap("Menu_Images/Mouse.bmp"); // Load our picture
     BITMAP *mouseH = makeBitmap("Menu_Images/MouseH.bmp"); // Load our picture
-    int animationCounter1 = 0;
     SAMPLE *menuClick[5];
     menuClick[0] = makeSample("Menu_Sounds/Menu Select 1.wav");
     menuClick[1] = makeSample("Menu_Sounds/Menu Select 2.wav");
@@ -119,9 +119,6 @@ int main(int argc, char *argv[])
 
     int randomizer = 0;
 
-
-    int highlightedOption = 1;
-    int nextKey = -1;
     srand(time(0));
 
     showIntro();
@@ -239,7 +236,6 @@ void goToNewGameMenu()
      BITMAP *newBackground = makeBitmap("Menu_Images/New Game Initial.bmp");
 
      BITMAP *mouse =  makeBitmap("Menu_Images/Mouse.bmp");
-     BITMAP *mouseH = makeBitmap("Menu_Images/MouseH.bmp");
      newAmbient = makeSample("Menu_Sounds/Battle Drums.wav");
      SAMPLE *toggleNoise = makeSample("Menu_Sounds/ToggleNoise.wav");
 
@@ -325,8 +321,8 @@ void printCampaignOptions()
     static int timeClicked = 0;
     static int sliderClicked = 1;
 
-    static BITMAP *check =  makeBitmap("Menu_Images/Checked Box.bmp");
-    static BITMAP *empty =  makeBitmap("Menu_Images/Check Box.bmp");
+    BITMAP *check =  makeBitmap("Menu_Images/Checked Box.bmp");
+    BITMAP *empty =  makeBitmap("Menu_Images/Check Box.bmp");
 
     static MENUBUTTON aSlider[3];
 
@@ -336,13 +332,13 @@ void printCampaignOptions()
 
     static MENUBUTTON tutorial;
 
-    static BITMAP *newBackground = makeBitmap("Menu_Images/Campaign Menu 01.bmp");
+    BITMAP *newBackground = makeBitmap("Menu_Images/Campaign Menu 01.bmp");
 
 
-   static BITMAP *slider =  makeBitmap("Menu_Images/Slider.bmp");
+   BITMAP *slider =  makeBitmap("Menu_Images/Slider.bmp");
    static BITMAP *difficulties[3];
 
-   static SAMPLE *slideNoise = makeSample("Menu_Sounds/SliderNoise.wav");
+   SAMPLE *slideNoise = makeSample("Menu_Sounds/SliderNoise.wav");
 
     if (firstTime)
     {
@@ -419,9 +415,8 @@ void printCampaignOptions()
 
 void printScenarioOptions()
 {
-     int i = 0;
     static int firstTime = 1;
-    static struct slider moneySlider;
+    static slider_t moneySlider;
 
      if (firstTime)
      {
@@ -430,7 +425,7 @@ void printScenarioOptions()
     static MENUBUTTON forwardArrow;
     initializeButton(&forwardArrow, 920, 677, 57, 50, "Menu_Images/Forward Arrow.bmp");
 
-    static BITMAP *newBackground = makeBitmap("Menu_Images/Scenario Menu 01.bmp");
+    BITMAP *newBackground = makeBitmap("Menu_Images/Scenario Menu 01.bmp");
 
     draw_sprite(menuBuffer, newBackground, 0, 0);
     makeSlider(&moneySlider);
@@ -482,7 +477,7 @@ void printBattleOptions()
     godNames[2] = makeBitmap("Menu_Images/Neptune Name.bmp");
      }
 
-     static BITMAP *newBackground = makeBitmap("Menu_Images/Single Battle Menu 01.bmp");
+    BITMAP *newBackground = makeBitmap("Menu_Images/Single Battle Menu 01.bmp");
     int i = 0;
     int j = 0;
     static MENUBUTTON forwardArrow;
@@ -492,8 +487,6 @@ void printBattleOptions()
     initializeButton(&aGod[0], 475, 434, 129, 66, "Menu_Images/Zeus.bmp");
     initializeButton(&aGod[1], 649, 434, 129, 66, "Menu_Images/Mars.bmp");
     initializeButton(&aGod[2], 825, 434, 129, 66, "Menu_Images/Neptune.bmp");
-
-    static SAMPLE *slideNoise = makeSample("Menu_Sounds/SliderNoise.wav");
 
     static SAMPLE *aGodSound[3];
     aGodSound[0] = makeSample("Menu_Sounds/Jupiter.wav");
@@ -588,8 +581,8 @@ int menu_mouseIsOverSlider(slider_t *theSlider)
 
 int makeSlider(slider_t *theSlider)
 {
-    static SAMPLE *slideNoise = makeSample("Menu_Sounds/SliderNoise.wav");
-	static BITMAP *bar = makeBitmap("Menu_Images/Slider.bmp");
+  SAMPLE *slideNoise = makeSample("Menu_Sounds/SliderNoise.wav");
+	BITMAP *bar = makeBitmap("Menu_Images/Slider.bmp");
 
 	if (mouse_b && menu_mouseIsOverSlider(theSlider))
 	{

@@ -98,7 +98,7 @@ S:::::::::::::::SS P::::::::P             QQ:::::::::::Q  R::::::R     R:::::R
 all #define statements and ENUMs for the constants used universally in the game.
 */
 
-#include "global_declaration.h"
+#include "global_declarations.h"
 /*
 "global_declaration.h" includes the declarations for all global variables.
 This header file is only included once in "SPQR.cpp" so that they are only
