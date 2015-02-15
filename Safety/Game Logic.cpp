@@ -1,5 +1,5 @@
-#include "Definitions.h" //All structure definitions, #defines, #includes, and ENUMs
-#include "Globals.h"     //Includes all global variables declared as "extern"
+#include "definitions.h" //All structure definitions, #defines, #includes, and ENUMs
+#include "globals.h"     //Includes all global variables declared as "extern"
 
 extern BITMAP *makeBitmap(char *aFilename);
 extern void drawGrid();

@@ -5,7 +5,7 @@ all global variables declared as "extern"
 
 */
 
-#include "Definitions.h" //All structure definitions, #defines, #includes, and ENUMs
+#include "definitions.h" //All structure definitions, #defines, #includes, and ENUMs
 
 /*			Timers
 Each "Counter" is the actual timer, the "Checks"

@@ -1,5 +1,5 @@
-#include "Definitions.h" //All structure definitions, #defines, #includes, and ENUMs
-#include "Globals.h"     //Includes all global variables declared as "extern"
+#include "definitions.h" //All structure definitions, #defines, #includes, and ENUMs
+#include "globals.h"     //Includes all global variables declared as "extern"
 
 
 extern BITMAP *makeBitmap(char *aFilename);
@@ -77,9 +77,6 @@ void loadAllObjects()
 {
 	FILE *objectLibrary = fopen ("Text/ObjectLibrary.txt", "r");
 
-	//The current OBJECT index being loaded
-	int objectIndex = 0;
-
 	//Used for error checking
 	int returnCode = 0;
 
@@ -121,7 +118,7 @@ void loadAllObjects()
 		returnCode = fscanf(objectLibrary, "Max People: %d\n", &anObject[objectIndex].maxPeople);
 
 		//Advance cursor to actual data
-		returnCode |= fscanf(objectLibrary, "Production Rates: ", NULL);
+		returnCode |= fscanf(objectLibrary, "Production Rates: ");
 
 		//Read NUMRESOURCES production rates
 		for (int i = 0; i < NUMRESOURCES; i ++)
@@ -129,9 +126,9 @@ void loadAllObjects()
 			fscanf(objectLibrary, "%d", &anObject[objectIndex].productionRate[i]);
 		}
 		//Advance cursor to actual data
-		returnCode |= fscanf(objectLibrary, "\n", NULL);
+		returnCode |= fscanf(objectLibrary, "\n");
 		//Advance cursor to actual data
-		returnCode |= fscanf(objectLibrary, "Consumption Rates: ", NULL);
+		returnCode |= fscanf(objectLibrary, "Consumption Rates: ");
 
 		//Read NUMRESOURCES consumption rates
 		for (int i = 0; i < NUMRESOURCES; i ++)
@@ -139,9 +136,9 @@ void loadAllObjects()
 			fscanf(objectLibrary, "%d", &anObject[objectIndex].consumptionRate[i]);
 		}
 		//Advance cursor to actual data
-		fscanf(objectLibrary, "\n", NULL);
+		fscanf(objectLibrary, "\n");
 		//Advance cursor to actual data
-		fscanf(objectLibrary, "Max Supply: ", NULL);
+		fscanf(objectLibrary, "Max Supply: ");
 
 		//Read NUMRESOURCES max supplies
 		for (int i = 0; i < NUMRESOURCES; i ++)
@@ -149,9 +146,9 @@ void loadAllObjects()
 			fscanf(objectLibrary, "%d", &anObject[objectIndex].maxSupply[i]);
 		}
 		//Advance cursor to actual data
-		fscanf(objectLibrary, "\n", NULL);
+		fscanf(objectLibrary, "\n");
 		//Advance cursor to actual data
-		fscanf(objectLibrary, "Supply Threshold: ", NULL);
+		fscanf(objectLibrary, "Supply Threshold: ");
 
 		//Read NUMRESOURCES supply thresholds
 		for (int i = 0; i < NUMRESOURCES; i ++)
@@ -160,7 +157,7 @@ void loadAllObjects()
 		}
 
 		//Advance cursor to actual data
-		fscanf(objectLibrary, "\n", NULL);
+		fscanf(objectLibrary, "\n");
 
 		//Print offset
 		fscanf(objectLibrary, "Print  Offset: %d\n", &anObject[objectIndex].printOffset);
@@ -184,7 +181,7 @@ void loadAllObjects()
 		/*Loading products*/
       //int products is an int where each byte acts as a boolean representing
 		//whether or not this OBJECT produces a certain resource
-		fscanf(objectLibrary, "Products: ", NULL);
+		fscanf(objectLibrary, "Products: ");
 		for (int i = 0; i < NUMRESOURCES; i++)
 		{
 			int aResourceBool;

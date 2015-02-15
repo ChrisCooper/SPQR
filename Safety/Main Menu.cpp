@@ -1,8 +1,8 @@
 #include <stdlib.h>        //Memory handling prototypes
 #include <math.h>          //Math routines
 #include <time.h>          //For time(0) function
-#include "Definitions.h" 	//All structure definitions, #defines, #includes, and ENUMs
-#include "Globals.h"       //Includes all global variables declared as "extern"
+#include "definitions.h" 	//All structure definitions, #defines, #includes, and ENUMs
+#include "globals.h"       //Includes all global variables declared as "extern"
 
 
 /* THE UGLY MENU-DUCKLING

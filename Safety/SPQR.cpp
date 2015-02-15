@@ -84,15 +84,15 @@ S:::::::::::::::SS P::::::::P             QQ:::::::::::Q  R::::::R     R:::::R
 */
 
 
-#include "Definitions.h"
+#include "definitions.h"
 /*
-"Definitions.h" includes definitions for all structures used in SPQR, and
+"definitions.h" includes definitions for all structures used in SPQR, and
 all #define statements and ENUMs for the constants used universally in the game.
 */
 
-#include "GlobalDeclarations.h"
+#include "global_declaration.h"
 /*
-"GlobalDeclarations.h" includes the declarations for all global variables.
+"global_declaration.h" includes the declarations for all global variables.
 This header file is only included once in "SPQR.cpp" so that they are only
 declared once.
 */

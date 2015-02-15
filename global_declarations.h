@@ -5,7 +5,7 @@ This header file is included only once, in SPQR.cpp
 */
 
 
-#include "Definitions.h" //All structure definitions, #defines, #includes, and ENUMs
+#include "definitions.h" //All structure definitions, #defines, #includes, and ENUMs
 
 
 /*			Timers
