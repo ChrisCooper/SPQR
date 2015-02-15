@@ -8,11 +8,6 @@ Creates a bitmap form the file named "char *aFilename"
 Shows error message on failure
 */
 
-void readingErrorCheck(int actual, int errorCheck, char* message);
-/*
-Checks if file was read properly
-*/
-
 void saveGame();
 
 void loadGame();
@@ -82,7 +77,6 @@ void loadAllObjects()
 
 	//Total OBJECTs
 	returnCode = fscanf(objectLibrary, "Objects in Total: %d\n\n", &totalBuildings);
-	//readingErrorCheck(returnCode, 1, "Error! While reading in \"totalBuildings\"");
 
 	//Malloc the array of objects, based on how big "totalBuildings" is
 	anObject = (OBJECT*)malloc(totalBuildings * sizeof(OBJECT));
@@ -92,7 +86,6 @@ void loadAllObjects()
 
 		//Name
 		returnCode = fscanf(objectLibrary, "Name: %s\n", anObject[objectIndex].name);
-		//readingErrorCheck(returnCode, 1, "Error! While reading in \"Name\"");
 
 		//Show the loading screen and the loading bar
 		draw_sprite(screenBuffer, loadBackground, 0, 0);
@@ -105,11 +98,9 @@ void loadAllObjects()
 
 		//Blurb
 		returnCode = fscanf(objectLibrary, "Blurb: %s\n", anObject[objectIndex].blurb);
-		//readingErrorCheck(returnCode, 1, "Error! While reading in \"Blurb\"");
 
 		//Cost
 		returnCode = fscanf(objectLibrary, "Cost: %d\n", &anObject[objectIndex].cost);
-		//readingErrorCheck(returnCode, 1, "Error! While reading in \"Cost\"");
 
 		//Varieties
 		returnCode = fscanf(objectLibrary, "Varieties: %d\n", &anObject[objectIndex].varieties);
@@ -194,22 +185,6 @@ void loadAllObjects()
       loadingPhase++;
 	}
 	fclose(objectLibrary);
-}
-
-
-/*  readingErrorCheck(int actual, int errorCheck, char* message)
-
-Checks if the correct number of items were read in
-
-*/
-void readingErrorCheck(int actual, int errorCheck, char* message)
-{
-	if (actual != errorCheck)
-	{
-		set_gfx_mode(GFX_TEXT, 1024,768,0,0);
-		allegro_message(message);
-		exit(1);
-	}
 }
 
 /*  saveGame()
@@ -434,17 +409,11 @@ void loadGame()
 	BITMAP *aGameButton = makeBitmap("Images/GameSlot.gif");
 	BITMAP *upArrow = makeBitmap("Images/UpArrow.gif");
 	BITMAP *downArrow = makeBitmap("Images/DownArrow.gif");
-	BITMAP *backArrow = makeBitmap("Images/Back Arrow.gif");
 	BUTTON okButton;
 	okButton.left = 269;
 	okButton.top = 689;
 	okButton.width = 289;
 	okButton.height = 48;
-	BUTTON backButton;
-	backButton.left = 40;
-	backButton.top = 700;
-	backButton.width = 49;
-	backButton.height = 49;
 	BUTTON scrollButton[2];
 	scrollButton[0].left = 485;
 	scrollButton[0].top = 45;

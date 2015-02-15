@@ -27,9 +27,10 @@ MENUBUTTON {
    BITMAP *picture;
 };
 
-struct slider {
+
+typedef struct slider_t {
 	int left, top, width, height, values, current, position;
-};
+} slider_t;
 
 
 extern void SPQR_Game();
@@ -56,8 +57,8 @@ void printCampaignOptions();
 void printScenarioOptions();
 void printBattleOptions();
 void initializeButton(MENUBUTTON *, int, int, int, int, char *);
-void initializeSlider(slider *, int, int, int, int, int, int, int);
-int makeSlider(slider *);
+void initializeSlider(slider_t *, int, int, int, int, int, int, int);
+int makeSlider(slider_t *);
 void showAssignment();
 
 //PALETTE palette;
@@ -463,7 +464,7 @@ void printScenarioOptions()
 void printBattleOptions()
 {
 
-     static struct slider aBattleSlider[3];
+     static slider_t aBattleSlider[3];
 
      static int firstTime = 1;
      static int characterClicked = 0;
@@ -565,7 +566,7 @@ void initializeButton(MENUBUTTON *theButton, int left, int top, int width, int h
      theButton->height = height;
      theButton->picture = makeBitmap(fileName);
 }
-void initializeSlider(slider *theSlider, int left, int top, int width, int height, int values, int current, int position)
+void initializeSlider(slider_t *theSlider, int left, int top, int width, int height, int values, int current, int position)
 {
      theSlider->left = left;
      theSlider->top = top;
@@ -580,12 +581,12 @@ int menu_mouseIsOver(MENUBUTTON *theButton)
 {
     return (mouse_x > theButton->left && mouse_x < theButton->left + theButton->width && mouse_y > theButton->top && mouse_y < theButton->top + theButton->height);
 }
-int menu_mouseIsOverSlider(slider *theSlider)
+int menu_mouseIsOverSlider(slider_t *theSlider)
 {
     return (mouse_x > theSlider->left && mouse_x < theSlider->left + theSlider->width && mouse_y > theSlider->top && mouse_y < theSlider->top + theSlider->height);
 }
 
-int makeSlider(slider *theSlider)
+int makeSlider(slider_t *theSlider)
 {
     static SAMPLE *slideNoise = makeSample("Menu_Sounds/SliderNoise.wav");
 	static BITMAP *bar = makeBitmap("Menu_Images/Slider.bmp");
